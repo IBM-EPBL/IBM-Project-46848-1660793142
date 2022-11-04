@@ -1,0 +1,18 @@
+body
+{
+margin: 0;
+padding: 0;
+background-color:#d1fa05ba; font-family: 'Arial';
+}
+
+.regcenter {
+    float: center;
+    display: block;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.login{
+width: 382px; overflow: hidden; margin: auto;
+margin: 20 0 0 450px; padding: 80px; background: #70eadf; border-radius: 15px ;
+
+}
