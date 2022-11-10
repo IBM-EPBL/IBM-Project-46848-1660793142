@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+ 
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+background-image: url("https://static.vecteezy.com/system/resources/previews/000/558/781/non_2x/vector-abstract-technology-digital-data-square-blue-pattern-pixel-with-lines-connect-dots-on-white-color-background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+
+* {
+  box-sizing: border-box;
+  
+}
+
+	.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.center {
+  text-align: center;
+  color:#8B0000;
+  border: 3px solid green;
+}
+h3{
+color:#800000;
+}
+
+}
