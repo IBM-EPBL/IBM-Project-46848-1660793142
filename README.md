@@ -47,6 +47,8 @@ https://user-images.githubusercontent.com/59636301/202842406-c474ebb1-46f8-4800-
 
 - [Code](https://github.com/IBM-EPBL/IBM-Project-46848-1660793142/tree/main/Final%20deliverable)
 
+- [Project Report Document](https://github.com/IBM-EPBL/IBM-Project-46848-1660793142/tree/main/Project%20Report%20Document)
+
 
 
 
